@@ -1,0 +1,16 @@
+pydriller
+gitpython
+tree-sitter
+tree-sitter-python
+tree-sitter-javascript
+tree-sitter-java
+lizard
+pandas
+numpy
+scipy
+scikit-learn
+shap
+matplotlib
+seaborn
+jupyter
+tqdm
